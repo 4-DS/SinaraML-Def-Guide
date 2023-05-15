@@ -1,5 +1,5 @@
 Concepts
-====
+========
 
 .. autosummary::
    :toctree: generated
