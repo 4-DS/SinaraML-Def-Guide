@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Sinara ML Definitive Guide'
+copyright = '2023, 4-DS'
+author = 'Dmitry Love'
 
 release = '0.1'
 version = '0.1.0'
