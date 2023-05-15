@@ -12,5 +12,5 @@ Contents
 
 .. toctree::
 
-   Intro
-   Concepts
+   intro
+   concepts
