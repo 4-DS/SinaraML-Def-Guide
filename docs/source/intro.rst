@@ -3,10 +3,9 @@ Intro
 
 **The Sinara ML Definitive Guide** is a guide to systematic development of ML models using the Sinara Framework. This guide is about ML pipelines (ML system) development not about using specialized Data Science libraries to train models or mathematics. Sinara Framework allows the Data Scientist to focus on Data Science tasks by minimize the efforts associated with engineering and other dev and ops tasks.
 
-Why are so many companies starting to develop AI experiencing serious difficulties?
+The problem of data science in non-IT companies 
 ==================================================================================
-Why are so many companies starting to develop AI experiencing serious difficulties?
-
+Why are so many companies starting to develop AI experiencing serious difficulties? If we ask such a question to the developers of AI systems, then we will get a lot of different answers, but the story as it is seen from the side of the scientist invariably repeats itself.
 
 Let's imagine a large non-IT company that started to develop AI and in which data scientists appeared. Adam released the first model. Passed the "weights" and a few py files to the prod. 
 
