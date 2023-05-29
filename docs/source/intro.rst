@@ -21,6 +21,7 @@ Sinara Framework is an essence of our years of experience (tools, guides, regula
    
 The most important tasks for AI success in a company?
 =====================================================
+What should we focus on to achieve AI success in our company? Someone answers on the data, someone will say on the correct problem statement, someone will say on the quality of Data Scientists?
 
 .. note::
 
