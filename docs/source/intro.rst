@@ -4,7 +4,7 @@ Intro
 **The Sinara ML Definitive Guide** is a guide to systematic development of ML models using the Sinara Framework. This guide is about ML pipelines (ML system) development not about using specialized Data Science libraries to train models or mathematics. Sinara Framework allows the Data Scientist to focus on Data Science tasks by minimize the efforts associated with engineering and other dev and ops tasks.
 
 The problem of Data Science in non-IT companies 
-==================================================================================
+===============================================
 Why are so many companies starting to develop AI experiencing serious difficulties? If we ask such a question to the developers of AI systems, then we will get a lot of different answers, but the story as it is seen from the side of the Data Scientist is the same.
 
 Let's imagine a large non-IT company that started to develop AI and in which data scientists appeared. Adam released the first model. Passed the "weights" and a few py files to the prod. 
@@ -18,6 +18,9 @@ Management is upset, why does it have to do all of the work from the beginning b
 The answer lies in the field of engineering and organization of development and operation of ML systems. With the seeming similarity of approaches and tools with software dev, ML development and operation has many of its own ML specifics, and in addition to specialized tools and approaches, also requires a rethinking of traditional dev practices. Moreover, the use of AI in non-IT companies leads to additional challenges: we often have to solve AI tasks with fewer resources and competencies compared to IT companies. 
 
 Sinara Framework is an essence of our years of experience (tools, guides, regulations) in organizing Data Science in non-IT companies. Sinara Framework is for those who want to focus specifically on practical Data Science, and minimize their efforts of related disciplines such as software and data engineering, dev and ops, infrastructure support.
+   
+The most important tasks for AI success in a company?
+=====================================================
 
 .. note::
 
