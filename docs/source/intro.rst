@@ -19,7 +19,7 @@ The answer lies in the field of engineering and organization of development and 
 
 Sinara Framework is an essence of our years of experience (tools, guides, regulations) in organizing Data Science in non-IT companies. Sinara Framework is for those who want to focus specifically on practical Data Science, and minimize their efforts of related disciplines such as software and data engineering, dev and ops, infrastructure support.
    
-The most important tasks for AI success in a company?
+The most important tasks for AI success?
 =====================================================
 What should we focus on to achieve AI success in our company? Someone answers on the data, someone will say on the correct problem statement, someone will say on the quality of Data Scientists?
 
