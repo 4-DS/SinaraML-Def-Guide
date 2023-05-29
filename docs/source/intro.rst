@@ -23,6 +23,8 @@ The most important tasks for AI success in a company?
 =====================================================
 What should we focus on to achieve AI success in our company? Someone answers on the data, someone will say on the correct problem statement, someone will say on the quality of Data Scientists?
 
+All of these answers are partly correct, but they do not bring us any closer to solving the Adam and Ivan problem described above, and to understanding the organizational and engineering specifics of ML development. All of these answers are on the outer boundary of our problem, and do not allow us to grasp the essence specific to our field.
+
 .. note::
 
    This project is under active development.
