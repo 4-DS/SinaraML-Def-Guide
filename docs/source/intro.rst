@@ -13,7 +13,9 @@ Three months have passed and Ivan is given the task to retrain the model on the 
 
 As a result, Ivan is left with a broken code, some kind of data, a hint of some kind of ritual procedure that will revive the dead man. Ivan tries to restore the ritual knowledge, at which time Adam leaves the company. Then after a long and agonizing attempt Ivan comes to the conclusion that the code is wrong, the data are wrong, some of it is lost and, in general, it is easier to do everything over again.
 
-Management is upset, why does it have to do all of the work from the beginning because of a minor change? Why is everything so long and expensive in ML? 
+Management is upset, why does it have to do all of the work from the beginning because of a minor change? Why is everything so long and expensive in ML?
+
+The answer lies in the field of engineering and organization of development and operation of ML systems. With the seeming similarity of approaches and tools with software dev, ML development and operation has many of its own ML specifics, and in addition to specialized tools and approaches, also requires a rethinking of traction dev practices. Moreover, the use of AI in non-IT companies leads to new challenges: we often have to solve AI tasks with fewer resources and competencies compared to IT companies. 
 
 
 .. note::
