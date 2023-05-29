@@ -15,7 +15,7 @@ As a result, Ivan is left with a broken code, some kind of data, a hint of some 
 
 Management is upset, why does it have to do all of the work from the beginning because of a minor change? Why is everything so long and expensive in ML?
 
-The answer lies in the field of engineering and organization of development and operation of ML systems. With the seeming similarity of approaches and tools with software dev, ML development and operation has many of its own ML specifics, and in addition to specialized tools and approaches, also requires a rethinking of traction dev practices. Moreover, the use of AI in non-IT companies leads to new challenges: we often have to solve AI tasks with fewer resources and competencies compared to IT companies. 
+The answer lies in the field of engineering and organization of development and operation of ML systems. With the seeming similarity of approaches and tools with software dev, ML development and operation has many of its own ML specifics, and in addition to specialized tools and approaches, also requires a rethinking of traction dev practices. Moreover, the use of AI in non-IT companies leads to additional challenges: we often have to solve AI tasks with fewer resources and competencies compared to IT companies. 
 
 
 .. note::
