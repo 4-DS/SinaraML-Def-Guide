@@ -17,6 +17,7 @@ Management is upset, why does it have to do all of the work from the beginning b
 
 The answer lies in the field of engineering and organization of development and operation of ML systems. With the seeming similarity of approaches and tools with software dev, ML development and operation has many of its own ML specifics, and in addition to specialized tools and approaches, also requires a rethinking of traditional dev practices. Moreover, the use of AI in non-IT companies leads to additional challenges: we often have to solve AI tasks with fewer resources and competencies compared to IT companies. 
 
+Sinara Framework is an essence of our years of experience (tools, guides, regulations) in organizing Data Science in non-IT companies. Sinara Framework is for those who want to focus specifically on practical Data Science, and minimize their efforts of related disciplines such as software and data engineering, dev and ops, infrastructure support.
 
 .. note::
 
