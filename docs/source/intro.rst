@@ -13,17 +13,19 @@ Three months have passed and Ivan is given the task to retrain the model on the 
 
 As a result, Ivan is left with a broken code, some kind of data, a hint of some kind of ritual procedure that will revive the dead man. Ivan tries to restore the ritual knowledge, at which time Adam leaves the company. Then after a long and agonizing attempt Ivan comes to the conclusion that the code is wrong, the data are wrong, some of it is lost and, in general, it is easier to do everything over again.
 
-Management is upset, why does it have to do all of the work from the beginning because of a minor change? Why is everything so long and expensive in ML?
+Management is upset, why does it have to do all of the work from the beginning because of a minor change? Why is everything so long and expensive in ML? In what follows, we will refer to the sutation we have described as the Adam-Ivan problem
 
-The answer lies in the field of engineering and organization of development and operation of ML systems. With the seeming similarity of approaches and tools with software dev, ML development and operation has many of its own ML specifics, and in addition to specialized tools and approaches, also requires a rethinking of traditional dev practices. Moreover, the use of AI in non-IT companies leads to additional challenges: we often have to solve AI tasks with fewer resources and competencies compared to IT companies. 
+The answer lies in the field of engineering and organization of development and operation of ML systems. With the seeming similarity of approaches and tools with conventional software dev, ML development and operation has many of its own ML specifics. And in addition to specialized ML tools and approaches, it also requires a rethinking of established dev practices. Moreover, the use of AI in non-IT companies leads to additional challenges: we often have to solve AI tasks with fewer resources and competencies compared to IT companies. 
 
-Sinara Framework is an essence of our years of experience (tools, guides, regulations) in organizing Data Science in non-IT companies. Sinara Framework is for those who want to focus specifically on practical Data Science, and minimize their efforts of related disciplines such as software and data engineering, dev and ops, infrastructure support.
+Sinara Framework is an essence of our years of experience (tools, guides, regulations) in organizing Data Science in non-IT companies. Sinara Framework is for those who want to focus specifically on practical Data Science, and want to minimize their efforts of related disciplines such as software and data engineering, dev and ops, infrastructure support.
    
 The most important tasks for AI success?
 =====================================================
 What should we focus on to achieve AI success in our company? Someone answers on the data, someone will say on the correct problem statement, someone will say on the quality of Data Scientists?
 
-All of these answers are partly correct, but they do not bring us any closer to solving the Adam and Ivan problem described above, and to understanding the organizational and engineering specifics of ML development. All of these answers are on the outer boundary of our problem, and do not allow us to grasp the essence specific to our field.
+All of these answers are partly correct, but they do not bring us any closer to solving the Adam and Ivan problem described above, and to understanding the organizational and engineering specifics of ML development. All of these answers are on the outer boundary of our problem, and don't allow us to grasp the essence specific to ML field.
+
+Here are the answers that will satisfy us if we want to solve "Adam/Ivan" problem
 
 .. note::
 
