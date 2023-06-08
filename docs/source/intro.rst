@@ -27,13 +27,17 @@ All of these answers are partly correct, but they do not bring us any closer to 
 
 Here are the answers that will satisfy us if we are going to solve "Adam/Ivan" problem
 
+
 The main engineering tasks of a DS:
-*. Creating an ML pipeline to prepare data, train, and roll out models to prod
-*. Systematic support (quality maintenance in changing conditions) and development of models through the monitoring of model performance in production, additional training and improvement of models using of ML pipelines
+* Creating an ML pipeline to prepare data, train, and roll out models to prod
+* Systematic support (quality maintenance in changing conditions) and development of models through the monitoring of model performance in production, additional training and improvement of models using of ML pipelines
+
 
 .. note::
 
    This project is under active development.
+   * Creating an ML pipeline to prepare data, train, and roll out models to prod
+   * Systematic support (quality maintenance in changing conditions) and development of models through the monitoring of model performance in production, additional training and improvement of models using of ML pipelines
 
 test
 
