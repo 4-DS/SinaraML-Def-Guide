@@ -37,7 +37,7 @@ Here are the answers that will satisfy us if we are going to solve "Adam/Ivan" p
    * Reproducibility and transferability of ML pipelines between Data Scientists
    * Acceptable time-to-market and TCO for ML model
 
-t
+Such answers may seem too complicated and incomprehensible to the unprepared reader. And this is understandable. Without understanding what is ML pipeline and what is monitoring of ML models, our explanation is useless
    
    
    
