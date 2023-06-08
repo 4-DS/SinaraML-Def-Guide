@@ -1,7 +1,7 @@
 Intro
 =====
 
-**The Sinara ML Definitive Guide** is a guide to systematic development of ML models using the Sinara Framework. This guide is about ML pipelines (ML system) development not about using specialized Data Science libraries to train models or mathematics. Sinara Framework allows the Data Scientist to focus on Data Science tasks by minimize the efforts associated with engineering and other dev and ops tasks.
+**The Sinara ML Definitive Guide** is a guide to systematic development of ML models using the Sinara Framework. This guide is about ML pipelines (ML system) development not about using specialized Data Science libraries to train models or math. Sinara Framework allows the Data Scientist to focus on Data Science tasks by minimize the efforts associated with engineering and other dev and ops tasks.
 
 The problem of Data Science in non-IT companies 
 ===============================================
@@ -25,7 +25,11 @@ What should we focus on to achieve AI success in our company? Someone answers on
 
 All of these answers are partly correct, but they do not bring us any closer to solving the Adam and Ivan problem described above, and to understanding the organizational and engineering specifics of ML development. All of these answers are on the outer boundary of our problem, and don't allow us to grasp the essence specific to ML field.
 
-Here are the answers that will satisfy us if we are going to solve "Adam/Ivan" problem:
+Here are the answers that will satisfy us if we are going to solve "Adam/Ivan" problem
+
+The main engineering tasks of a DS:
+*. Creating an ML pipeline to prepare data, train, and roll out models to prod
+*. Systematic support (quality maintenance in changing conditions) and development of models through the monitoring of model performance in production, additional training and improvement of models using of ML pipelines
 
 .. note::
 
