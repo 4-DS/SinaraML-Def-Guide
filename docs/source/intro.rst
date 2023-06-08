@@ -38,6 +38,11 @@ Here are the answers that will satisfy us if we are going to solve "Adam/Ivan" p
    * Acceptable time-to-market and TCO for ML model
 
 Such answers may seem too complicated and incomprehensible to the unprepared reader. And this is understandable. Without understanding what is ML pipeline and what is monitoring of ML models, our explanation is useless
+
+In order not to sell a cat in a poke, we will try to rephrase our answer. 
+
+   *. If we want to get more than a short-lived first version of the ML model, we need to shift our focus from ML models to ML pipelines and Model Monitoring
+   *. If we want to minimize TCO and time to market for our models, we need tools to cheaply develop and transfer ML pipelines and their results between Data Scientists 
    
    
    
