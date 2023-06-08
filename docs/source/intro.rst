@@ -30,7 +30,7 @@ Here are the answers that will satisfy us if we are going to solve "Adam/Ivan" p
    The main engineering tasks of a Data Scientist:
 
    * Development of ML pipelines to prepare data, train, and roll out models to production
-   * Systematic support (quality maintenance in changing conditions) and development of models through the monitoring of model performance in production, additional training and improvement of   these models using developed ML pipelines
+   * Systematic support (quality maintenance in changing conditions) and impovement of models through the monitoring of model performance in production, additional training and improvement of   these models via developeding of ML pipelines
 
    The main challenges of DS organization:
    
