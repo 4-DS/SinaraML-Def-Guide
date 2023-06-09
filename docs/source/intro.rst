@@ -9,7 +9,7 @@ The problem of Data Science in non-IT companies
 ===============================================
 Why are so many companies starting to develop AI experiencing serious difficulties? If we ask such a question to the developers of AI systems, then we will get a lot of different answers, but the story as it is seen from the side of a Data Scientist is the same.
 
-Let's imagine a large non-IT company that started to develop AI and in which data scientists appeared. Adam released the first model. Passed the "weights" and a few py files to the prod. 
+Let's imagine a large non-IT company that started to develop AI and in which data scientists appeared. Adam released the first model: passed the "weights" and a few py files to the production. 
 
 Three months have passed and Ivan is given the task to retrain the model on the updated data. Ivan comes to Adam and asks to see how Adam trained the code. Adam finds his code, although he is not sure if this is the code he trained the model on. He tries to run it, but he does not remember how he installed the environment and in what order he launched the files. He finds some data, but he is not sure what it is. He is trying to run the code, but is not very successful. The code is too complex to figure out what went wrong on the fly. He makes a correction in one place and then everything goes wrong in another place.
 
