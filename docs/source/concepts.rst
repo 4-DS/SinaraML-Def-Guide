@@ -9,6 +9,5 @@ ML system, ML Pipeline and Model Monitoring are the central concepts of ML model
 
 **ML system** is a set of components necessary for systematic development and operation of ML models. This is how Google depicts the ML system:
 
-
-   
+.. image:: path/filename.png
    
