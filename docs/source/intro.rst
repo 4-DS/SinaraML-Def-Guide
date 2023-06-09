@@ -7,7 +7,7 @@ Perhaps we could call this a MLOps Definitive Guide on Sinara Framework examples
 
 The problem of Data Science in non-IT companies 
 ===============================================
-Why are so many companies starting to develop AI experiencing serious difficulties? If we ask such a question to the developers of AI systems, then we will get a lot of different answers, but the story as it is seen from the side of the Data Scientist is the same.
+Why are so many companies starting to develop AI experiencing serious difficulties? If we ask such a question to the developers of AI systems, then we will get a lot of different answers, but the story as it is seen from the side of a Data Scientist is the same.
 
 Let's imagine a large non-IT company that started to develop AI and in which data scientists appeared. Adam released the first model. Passed the "weights" and a few py files to the prod. 
 
