@@ -44,8 +44,7 @@ To simplify, we can rephrase our answer:
    * If we want to get more than a short-lived first version of the ML model, we need to shift our focus from ML models to ML pipelines and Model Monitoring
    * If we want to minimize TCO and time to market for our models, we need tools to cheaply develop and transfer ML pipelines and their results between Data Scientists 
    
-   
-   
+But in any case, to be satisfied with the answer, we must take steps towards ML development practices, and understand what is ML pipeline and ML monitoring
 
 .. note::
 
