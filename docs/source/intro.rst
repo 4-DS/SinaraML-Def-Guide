@@ -1,12 +1,12 @@
 Intro
-*****
+#####
 
 **The Sinara ML Definitive Guide** is a guide to systematic development and operations of ML models using the Sinara Framework. This guide isn't about using specialized Data Science libraries to train models or math. Sinara Framework allows the Data Scientist to focus on Data Science tasks by minimize the efforts associated with engineering and other dev and ops tasks.
 
 Perhaps we could call this a MLOps Definitive Guide using the Sinara Framework. But we touch on topics beyond ML operations here, diving deep into the organization of model development and the regulations of ML dev and ops within non-IT companies
 
 The problem of Data Science in non-IT companies 
-===============================================
+***********************************************
 Why are so many companies starting to develop AI experiencing serious difficulties? If we ask such a question to the developers of AI systems, then we will get a lot of different answers, but the story as it is seen from the side of a Data Scientist is the same.
 
 Let's imagine a large non-IT company that started to develop AI and in which data scientists appeared. Adam released the first model: passed the "weights" and a few py files to the production. 
@@ -22,7 +22,7 @@ The solution to this problem lies in the field of engineering and organization o
 Sinara Framework is an essence of our years of experience (tools, guides, regulations) in organizing Data Science in non-IT companies. Sinara Framework is for those who want to focus specifically on practical Data Science, and want to minimize their efforts of related disciplines such as software and data engineering, dev and ops, infrastructure support.
    
 The most important tasks for AI success?
-=====================================================
+****************************************
 What should we focus on to achieve AI success in our company? Someone answers on the data, someone will say on the correct problem statement, someone will say on the quality of Data Scientists?
 
 All of these answers are partly correct, but they do not bring us any closer to solving the Adam and Ivan problem described above, and to understanding the organizational and engineering specifics of ML development. All of these answers are on the outer boundary of our problem, and don't allow us to grasp the essence specific to ML field.
