@@ -48,10 +48,4 @@ To simplify, we can rephrase our answer:
    
 But in any case, to be satisfied with the answer, we must take steps towards ML development practices, and understand what is ML pipeline and ML monitoring
 
-.. note::
-
-   This project is under active development.
- 
-test
-
 
