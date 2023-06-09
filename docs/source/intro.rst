@@ -1,5 +1,5 @@
 Intro
-=====
+*****
 
 **The Sinara ML Definitive Guide** is a guide to systematic development and operations of ML models using the Sinara Framework. This guide isn't about using specialized Data Science libraries to train models or math. Sinara Framework allows the Data Scientist to focus on Data Science tasks by minimize the efforts associated with engineering and other dev and ops tasks.
 
