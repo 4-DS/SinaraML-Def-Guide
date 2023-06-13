@@ -28,7 +28,7 @@ How should the Adam-Ivan problem have been solved? Ivan would have to analyze th
 Model, Model Service and Model Image 
 ************************************
 
-What is an ML model? A ML model is created using different libraries and different programming languages. The de facto standard for creating ML models is now the Python language. But each Python library has its own language abstractions for representing these models and its own formats for storing these models. The programming language of an ML product often differs from Python, and the libraries used by the Data Scientist may change over the life of the Model.
+What is an ML model? A ML model can be created using different libraries and different programming languages. The de facto standard for creating ML models is now the Python language. But each Python library has its own language abstractions for representing these models and its own formats for storing these models. The programming language of an ML product often differs from Python, and the libraries used by the Data Scientist may change over the life of the Model.
 
 Therefore, an approach has become entrenched in ML development in which the result of the ML Pipeline is not a model, but a Model Service. The Model Service is most often packaged in a docker image with a REST interface and deployed in the ML product as a docker container. This process is called Model Serving. 
 
