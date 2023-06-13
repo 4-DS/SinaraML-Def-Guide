@@ -19,5 +19,7 @@ This "wow picture" and hardcore article certainly make an impression. But there 
 
 Very roughly it can be depicted as follows:
 
+.. image:: sinara_ml_system-01.jpeg
+
 
 
