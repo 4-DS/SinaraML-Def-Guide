@@ -17,7 +17,7 @@ This "wow picture" and hardcore article certainly make an impression. But there 
 
 **ML Pipeline** is a set of steps that can be used to create a new "model". Usually the steps are implemented as code and run manually by a Data Scientist or automated. Typical ML Pipeline steps include data preparation, model training, model evaluation, validation and serving. The "Model" then enters the ML product and begins to work. To do this, the model is given data as input (let's call it X), and the model outputs the result of its work (let's call it Y). In the process, the ML product transmits the monitoring data(X and Y pairs) to the Monitoring System. The monitoring data are used for quality control of the model and for further development of the model.
 
-Very roughly it can be depicted as follows:
+Very roughly it can be depicted as the follows:
 
 .. image:: sinara_ml_system-01.jpeg
 
