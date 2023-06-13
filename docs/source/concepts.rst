@@ -32,7 +32,7 @@ To be precise, the output of a machine learning pipeline is usually not a model,
 
 There are other options for packaging and delivering Model Serving: for example, embedded models in mobile devices or batch inference systems. We will return to batch inference systems later. Model Serving of embedded models is beyond the scope of our current topic
 
-A ML model can be created using different libraries and different programming languages. The de facto standard for creating ML models is now the Python language. But each Python library has its own language abstractions for representing these models and its own formats for storing these models. The programming language of an ML product often differs from Python, and the libraries used by the Data Scientist may change over the life of the Model.
+A model delivered as Model A ML model can be created using different libraries and different programming languages. The de facto standard for creating ML models is the Python language now. But each Python library has its own language syntax for representing models and its own file formats for storing these models. Moreover, the programming language of an ML product often differs from Python, and the libraries used by the Data Scientist may change over the life of the Model.
 
 
 
