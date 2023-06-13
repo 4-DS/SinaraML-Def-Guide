@@ -28,11 +28,16 @@ How should the Adam-Ivan problem have been solved? Ivan would have to analyze th
 Model, Model Service and Model Image 
 ************************************
 
-To be precise, the output of a machine learning pipeline is usually not a model, but a Model Service. The Model Service is most often packaged in a docker image with a REST interface and deployed in the ML product as a docker container. This process is called Model Serving. 
+To be precise, the output of a machine learning pipeline is usually not a model, but a Model Service. Model Service is a wrapper around one or more models. Data Scientist provides a convenient for ML product interface over the model(s) using python preprocessing/postprocessing, json format as inputs and outputs. We will come back to this in more detail later with examples.
+
+The **Model Service** is most often packaged in a docker image with a REST interface and deployed in the ML product as a docker container. This process is called Model Serving. Docker image with Model Service and REST API packaged inside we will call **Model Image**
+
+
+
 
 There are other options for packaging and delivering Model Serving: for example, embedded models in mobile devices or batch inference systems. We will return to batch inference systems later. Model Serving of embedded models is beyond the scope of our current topic
 
-A model delivered as Model A ML model can be created using different libraries and different programming languages. The de facto standard for creating ML models is the Python language now. But each Python library has its own language syntax for representing models and its own file formats for storing these models. Moreover, the programming language of an ML product often differs from Python, and the libraries used by the Data Scientist may change over the life of the Model.
+A ML model can be created using different libraries and different programming languages. The de facto standard for creating ML models is the Python language now. But each Python library has its own language syntax for representing models and its own file formats for storing these models. Moreover, the programming language of an ML product often differs from Python, and the libraries used by the Data Scientist may change over the life of the Model.
 
 
 
