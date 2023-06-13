@@ -25,3 +25,6 @@ This is still too rough a picture to get to the action, but a good first step fo
 
 How should the Adam-Ivan problem have been solved? Ivan would have to analyze the results of the model monitoring, the ML pipelines code, the data on which the model was trained. Ivan should have had an easy way to reproduce the training of the current model, modify the ML pipelines if necessary, and release a new model trained on the new data
 
+Model, Model Service and Model Image 
+************************************
+
