@@ -32,7 +32,7 @@ What is an ML model? A ML model can be created using different libraries and dif
 
 Therefore, an approach has become entrenched in ML development in which the result of the ML Pipeline is not a model, but a Model Service. The Model Service is most often packaged in a docker image with a REST interface and deployed in the ML product as a docker container. This process is called Model Serving. 
 
-There are other options for packaging and delivering Model Serving: for example, embedded models in mobile devices or batch inference systems. We will return to batch inference systems later, and Model Serving of embedded models is beyond the scope of our current  
+There are other options for packaging and delivering Model Serving: for example, embedded models in mobile devices or batch inference systems. We will return to batch inference systems later. Model Serving of embedded models is beyond the scope of our current topic
 
 
 
