@@ -30,7 +30,9 @@ Model, Model Service and Model Image
 
 What is an ML model? A ML model is created using different libraries and different programming languages. The de facto standard for creating ML models is now the Python language. But each Python library has its own language abstractions for representing these models and its own formats for storing these models. The programming language of an ML product often differs from Python, and the libraries used by the Data Scientist may change over the life of the Model.
 
-Therefore, an approach has become entrenched in ML development in which the result of the ML Pipeline is not a model, but a Model Service. The Model Service is usually packaged in a docker image with a REST interface. 
+Therefore, an approach has become entrenched in ML development in which the result of the ML Pipeline is not a model, but a Model Service. The Model Service is most often packaged in a docker image with a REST interface and deployed in the ML product as a docker container. This process is called Model Serving. 
+
+There are other options for packaging and delivering Model Serving: for example, embedded models in mobile devices or batch inference systems. We will return to batch inference systems later, and Model Serving of embedded models is beyond the scope of our current  
 
 
 
