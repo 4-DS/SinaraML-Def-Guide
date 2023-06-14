@@ -32,10 +32,10 @@ To be precise, the output of a machine learning pipeline is usually not a model,
 
 The **Model Service** is most often packaged in a docker image with a REST interface and deployed in the ML product as a docker container. This process is called **Model Serving**. Docker image with **Model Service** and REST API packaged inside we will call **Model Image**
 
+.. image:: model_image.jpeg
+
 ML Product architecture
 ************************
-
-
 
 There are other options for packaging and delivering Model Serving: for example, embedded models in mobile devices or batch inference systems. We will return to batch inference systems later when we look at ETL processes.. Model Serving of embedded models is beyond the scope of our current topic
 
