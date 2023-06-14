@@ -28,9 +28,9 @@ How should the Adam-Ivan problem have been solved? Ivan would have to analyze th
 Model, Model Service and Model Image 
 ************************************
 
-To be precise, the output of a machine learning pipeline is usually not a model, but a Model Service. Model Service is a wrapper around one or more models. Data Scientist provides a convenient for ML product interface over the model(s) using Python for preprocessing/postprocessing, json format as inputs and outputs. We will come back to this in more detail later with examples.
+To be precise, the output of a machine learning pipeline is usually not a model, but a **Model Service**. Model Service is a wrapper around one or more models. Data Scientist provides a convenient for ML product interface over the model(s) using Python for preprocessing/postprocessing, json format as inputs and outputs. We will come back to this in more detail later with examples.
 
-The **Model Service** is most often packaged in a docker image with a REST interface and deployed in the ML product as a docker container. This process is called Model Serving. Docker image with Model Service and REST API packaged inside we will call **Model Image**
+The **Model Service** is most often packaged in a docker image with a REST interface and deployed in the ML product as a docker container. This process is called Model Serving. Docker image with **Model Service** and REST API packaged inside we will call **Model Image**
 
 ML product architecture
 ************************
