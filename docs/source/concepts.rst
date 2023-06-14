@@ -38,6 +38,7 @@ ML Product architecture
 ************************
 
 Sometimes other model serving approaches may be required:
+
 1. Embedded models in mobile or edge devices. Model Serving of embedded models is beyond the scope of our current topic
 2. Batch inference. We will return to batch inference systems later when we look at ETL processes.
 3. Real-time streaming
