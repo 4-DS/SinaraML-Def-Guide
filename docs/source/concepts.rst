@@ -37,7 +37,10 @@ The **Model Service** is most often packaged in a docker image with a REST inter
 ML Product architecture
 ************************
 
-There are other options for packaging and delivering Model Serving: for example, embedded models in mobile devices or batch inference systems. We will return to batch inference systems later when we look at ETL processes.. Model Serving of embedded models is beyond the scope of our current topic
+Sometimes other model serving approaches may be required:
+1. Embedded models in mobile or edge devices. Model Serving of embedded models is beyond the scope of our current topic
+2. Batch inference. We will return to batch inference systems later when we look at ETL processes.
+3. Real-time streaming
 
 Why is Model Serving needed?
 ****************************
