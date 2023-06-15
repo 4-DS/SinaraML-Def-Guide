@@ -42,24 +42,24 @@ Above we described how Model Serving works on the example of Microservice ML Pro
 There are four types of ML product architectures:
 
 1. **Microservice Arhitecture**. TODO
-2. **Embedded Model Arhchitecture** in mobile or edge devices. TODO 
-3. **Batch Inference Architecture**. TODO
+2. **Batch Inference Architecture**. TODO
+3. **Embedded Model Arhchitecture** in mobile or edge devices. TODO 
 4. **Real-time streaming Architecture**. TODO
 
 Microservice Architecture
 =========================
 TODO
 
-Embedded Model Architecture
-===========================
-TODO
-
-
 Batch Inference Architecture
 ============================
 TODO
 
 We will return to batch inference systems later when we look at ETL processes.
+
+Embedded Model Architecture
+===========================
+TODO
+
 
 Real-Time Streaming Architecture
 ================================
