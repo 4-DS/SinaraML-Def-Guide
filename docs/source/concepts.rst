@@ -53,6 +53,7 @@ TODO
 Batch Inference Architecture
 ============================
 TODO
+classification of goods by name in cash receipts
 
 We will return to batch inference systems later when we look at ETL processes.
 
