@@ -41,10 +41,25 @@ Above we described how Model Serving works on the example of Microservice ML Pro
 
 There are four types of ML product architectures:
 
-1  Microservice Arhitecture
-1. Embedded Models Arhchitecture in mobile or edge devices. Model Serving of embedded models is beyond the scope of our current topic
-1. Batch Inference Architecture. We will return to batch inference systems later when we look at ETL processes.
-1. Real-time streaming Architecture. 
+1. **Microservice Arhitecture**
+2. **Embedded Model Arhchitecture** in mobile or edge devices. 
+3. **Batch Inference Architecture**. 
+4. **Real-time streaming Architecture**.
+
+Microservice Architecture
+=========================
+
+Embedded Model Architecture
+===========================
+Model Serving of embedded models is beyond the scope of our current topic
+
+
+Batch Inference Architecture
+============================
+We will return to batch inference systems later when we look at ETL processes.
+
+Real-Time Streaming Architecture
+================================
 
 Why is Model Serving needed?
 ****************************
