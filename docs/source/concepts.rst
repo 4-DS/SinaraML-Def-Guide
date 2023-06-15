@@ -41,7 +41,7 @@ Above we described how Model Serving works on the example of Microservice ML Pro
 
 There are four types of ML product architectures:
 
-1. **Microservice Arhitecture**. TODO
+1. **Microservice Arсhitecture**. TODO
 2. **Batch Inference Architecture**. TODO
 3. **Embedded Model Arhchitecture** in mobile or edge devices. TODO 
 4. **Real-time streaming Architecture**. TODO
