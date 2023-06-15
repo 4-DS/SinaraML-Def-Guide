@@ -49,7 +49,7 @@ There are four types of ML product architectures:
 Microservice Architecture
 =========================
 TODO
-Determination of foreign objects in scrap metal
+Determination of ore grain size on a conveyor belt
 
 Batch Inference Architecture
 ============================
