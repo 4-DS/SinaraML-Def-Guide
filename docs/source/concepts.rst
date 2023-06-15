@@ -34,7 +34,7 @@ The **Model Service** is most often packaged in a docker image with a REST inter
 
 .. image:: model_image.jpeg
 
-ML Product architecture and Model Serving
+ML Product architectures and Model Serving
 *****************************************
 
 Above we described how Model Serving works on the example of Microservice Architecture
