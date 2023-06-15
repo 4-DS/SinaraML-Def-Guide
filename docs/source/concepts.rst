@@ -34,8 +34,8 @@ The **Model Service** is most often packaged in a docker image with a REST inter
 
 .. image:: model_image.jpeg
 
-ML Product architecture
-************************
+ML Product architecture and Model Serving
+*****************************************
 
 Sometimes other model serving approaches may be required:
 
