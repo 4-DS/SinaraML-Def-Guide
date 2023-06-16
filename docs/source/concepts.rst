@@ -43,7 +43,7 @@ There are four types of ML product architectures:
 
 1. **Microservice Arсhitecture**
 2. **Batch Inference Architecture**
-3. **Embedded Model Arhchitecture** in mobile or edge devices 
+3. **Embedded Model Arhchitecture** for mobile or edge devices 
 4. **Real-time Streaming Architecture**
 
 Examples of such architectures are given below. 
