@@ -74,8 +74,8 @@ Real-Time Streaming Architecture
 TODO
 recognition of car numbers in the stream
 
-Why is Model Serving needed?
-****************************
+Why is Model Serving ever needed?
+*********************************
 
 A ML model can be created using different libraries and different programming languages. The de facto standard for creating ML models is the Python language now. But each Python library has its own language syntax for representing models and its own file formats for storing these models. Moreover, the programming language of an ML product often differs from Python, and the libraries used by the Data Scientist may change over the life of the Model.
 
