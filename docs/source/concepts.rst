@@ -46,7 +46,7 @@ There are four types of ML product architectures:
 3. **Embedded Model Arhchitecture** in mobile or edge devices 
 4. **Real-time Streaming Architecture**
 
-Examples of such architectures are given below. Using Model Image for Model Serving, with some nuances, is applicable for all kinds of architectures, excluding the Embedded Model architecture
+Examples of such architectures are given below. Using Model Image for Model Serving, with some nuances, is applicable for all kinds of architectures, excluding the Embedded Model architecture. 
 
 Microservice Architecture
 =========================
