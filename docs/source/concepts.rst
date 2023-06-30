@@ -48,9 +48,9 @@ There are four types of ML product architectures:
 
 Examples of such architectures are given below. 
 
-Using Model Image for Model Serving is applicable for all kinds of architectures, excluding the Embedded Model architecture. Also, in some cases, other approaches to Model Serving are applied. For example, dedicated ML engineers can wrap models with java code and deliver Model Service to production as jar files. But, the use of Model Image is the most widely used generic approach, and with a few additions it can even be used for Embedded Models.
+ML product with Microservice Architecture is the most widespread and universal. Microservice Architecture uses Model Images for Model Serving. But Model Image is also applicable for all kinds of ML product architectures, excluding maybe the Embedded Model architecture. In some cases, other approaches to Model Serving are applied. For example, dedicated ML engineers can wrap models with java code and deliver Model Service to production as jar files. But, the use of Model Image is the most widely used generic approach, and with a few additions it can even be used for Embedded Models.
 
-For simplicity of presentation, as a basic example, we will use the Microservice Architecture as the most widespread and universal. The tools, methods and approaches that we will mention can also be applied to other architectures, albeit with some additions.
+So, for our further narration, we will use the example ML product with Microservice Architecture
 
 Microservice Architecture
 =========================
