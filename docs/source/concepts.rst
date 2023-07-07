@@ -56,7 +56,7 @@ Microservice Architecture
 =========================
 A typical ML application with a Microservice Architecture is shown in the picture below.
 
-.. image:: microservice_architecture.jpeg
+.. image:: microservice_architecture2.jpeg
 
 For example, let's imagine a web application for a steelworker in a steel plant. The steelmaker during the melting of steel must add special "additives" to achieve optimal steel parameters with minimal additive costs. 
 
