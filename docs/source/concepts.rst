@@ -56,6 +56,8 @@ Microservice Architecture
 =========================
 Imagine a web application for a steelworker in a steel plant. The steelmaker during the melting of steel must add special "additives" to achieve optimal steel parameters with minimal additive costs. The model receives information about the melt as input, gives recommendations for the steelmaker from the set of additives, and the ML product displays recommendations for additives on the web interface.
 
+.. image:: microservice_architecture.jpeg
+
 Batch Inference Architecture
 ============================
 TODO
