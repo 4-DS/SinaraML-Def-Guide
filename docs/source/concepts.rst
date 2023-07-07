@@ -32,7 +32,7 @@ To be precise, the output of a machine learning pipeline is usually not a model,
 
 The **Model Service** is most often packaged in a docker image with a REST interface and deployed in the ML product as a docker container. This process is called **Model Serving**. Docker image with **Model Service** and REST API packaged inside we will call **Model Image**
 
-.. image:: model_image.jpeg
+.. image:: model_image.jpg
 
 ML Product architectures and Model Serving
 *****************************************
@@ -56,7 +56,7 @@ Microservice Architecture
 =========================
 A typical ML application with a Microservice Architecture is shown in the picture below.
 
-.. image:: microservice_architecture3.jpeg
+.. image:: microservice_architecture3.jpg
 
 For example, let's imagine a web application for a steelworker in a steel plant. The steelmaker during the melting of steel must add special "additives" to achieve optimal steel parameters with minimal additive costs. 
 
