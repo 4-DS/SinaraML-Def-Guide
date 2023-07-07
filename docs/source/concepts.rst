@@ -60,7 +60,7 @@ A typical ML application with a Microservice Architecture is shown in the pictur
 
 For example, let's imagine a web application for a steelworker in a steel plant. The steelmaker during the melting of steel must add special "additives" to achieve optimal steel parameters with minimal additive costs. 
 
-The model receives information about the melt as input (X), gives recommendations for the steelmaker from the set of available additives(Y), and the ML product displays recommendations for additives on the UI. Based on recommendations and experience, the steelmaker makes the actual decision about the additives to be added (Y'). In the field of adding additives, ML product gets the resulting information about the melt (X')
+The model receives information about the melt as input (X), gives recommendations for the steelmaker from the set of available additives(Y), and the ML product displays recommendations for additives on the UI. Based on recommendations and experience, the steelmaker makes the actual decision about the additives to be added (Y'). After adding additives to the melt, the ML product receives the resulting information about the melt (X')
 
 Batch Inference Architecture
 ============================
