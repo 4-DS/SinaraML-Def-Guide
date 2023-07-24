@@ -90,6 +90,8 @@ Let's assume that Adam and Ivan worked in an organization that uses a modern sof
 
 .. image:: microservice_dev_process.jpeg
 
+So the process of developing a ML product (where FrontEnd UI is a web interface) might look something like this:
+
 ML dev process
 ====================
 
