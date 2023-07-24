@@ -5,10 +5,12 @@ Intro
 
 Perhaps we could call this a MLOps Definitive Guide using the Sinara Framework. But we touch on topics beyond ML operations here, diving deep into the organization of model development and the regulations of ML dev and ops within non-IT companies
 
-Targed audience 
-***********************************************
+Target audience and motivation
+*******************************
 
-TODO: Knowledge of basics of modern sofware development is required?
+TODO:
+Motivation: fill gaps
+Audience: Knowledge od basics of Software development is required
 
 The problem of Data Science in non-IT companies 
 ***********************************************
