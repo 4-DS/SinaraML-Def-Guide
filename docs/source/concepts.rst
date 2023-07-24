@@ -86,11 +86,13 @@ ML product. Twofold development process
 Software dev process
 ====================
 
-Let's assume that Adam and Ivan worked in an organization that uses a modern software development process with S/D and microservice architecture. With the right approach, the organization makes microservices as independent from each other and the stateles as possible. Accordingly, the development process of each microservice can be relatively independent and at the top level look something like this:
+Let's assume that Adam and Ivan worked in an organization that uses a modern software development process with CI/CD and microservice architecture. With the right approach, the organization makes microservices as independent from each other and the stateles as possible. Accordingly, the development process of each microservice can be relatively independent and at the top level look something like this:
 
 .. image:: microservice_dev_process.jpeg
 
-So the process of developing a ML product (where FrontEnd UI is a web interface) might look something like this:
+And the process of developing a typical ML product with a microservice architecture can look like several relatively autonomous processes for developing individual microservices:
+
+.. image:: ml_product_dev_process.jpeg
 
 ML dev process
 ====================
