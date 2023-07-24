@@ -9,7 +9,9 @@ Target audience and motivation
 *******************************
 
 TODO:
+
 Motivation: fill gaps
+
 Audience: Knowledge od basics of Software development is required
 
 The problem of Data Science in non-IT companies 
