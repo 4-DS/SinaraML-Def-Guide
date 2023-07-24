@@ -80,6 +80,8 @@ Real-Time Streaming Architecture
 TODO
 recognition of car numbers in the stream
 
+ML product. Twofold development process
+
 Why is Model Serving ever needed?
 *********************************
 
