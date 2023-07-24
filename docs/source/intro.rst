@@ -5,6 +5,11 @@ Intro
 
 Perhaps we could call this a MLOps Definitive Guide using the Sinara Framework. But we touch on topics beyond ML operations here, diving deep into the organization of model development and the regulations of ML dev and ops within non-IT companies
 
+Targed audience 
+***********************************************
+
+TODO: Knowledge of basics of modern sofware development is required?
+
 The problem of Data Science in non-IT companies 
 ***********************************************
 Why are so many companies starting to develop AI experiencing serious difficulties? If we ask such a question to the developers of AI systems, then we will get a lot of different answers, but the story as it is seen from the side of a Data Scientist is the same.
