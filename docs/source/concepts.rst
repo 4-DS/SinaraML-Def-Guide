@@ -83,6 +83,8 @@ recognition of car numbers in the stream
 ML product. Twofold development process
 ***************************************
 
+Let's assume that Adam and Ivan worked in an organization that uses a modern software development process with СI/CD and microservice architecture. What do we lack for the organized development of ML?
+
 Why is Model Serving ever needed?
 *********************************
 
