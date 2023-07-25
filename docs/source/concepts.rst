@@ -125,7 +125,7 @@ The process of developing a Model Service is many times more complicated than de
 
 This is how Google portrays the ML System needed to develop a single model service ("one model"):
 
-.. image:: m_product_dev_process_2.jpeg
+.. image:: google_ml_pipeline_and_cicd.jpeg
 
 
 
