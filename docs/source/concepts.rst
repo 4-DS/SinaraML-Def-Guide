@@ -108,7 +108,16 @@ CI/CD looks like an unnecessary high tax on product development. But the paradox
 ML dev process. ML Pipeline
 ===========================
 
-What do we lack for the organized development of ML?
+But let us return to the Adam-Ivan problem. Why is retraining the "model" so expensive? Why does a small change cost as much as doing it all over again?
+
+The answer is obvious. Traditional CI/CD is not enough to enable cheap iterative changes in the Model Service. 
+
+More is needed, including:
+
+1. СI/CD
+2. Data Handling
+3. ML pipelines
+4. Computing Power
 
 Why is Model Serving ever needed?
 *********************************
