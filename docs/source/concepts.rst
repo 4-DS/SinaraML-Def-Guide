@@ -121,6 +121,8 @@ More is needed, including:
 3. ML pipelines
 4. Computing Power
 
+The process of developing a Model Service is many times more complicated than developing a conventional microservice, comparable in complexity to the process of developing an entire ML product. 
+
 
 
 
