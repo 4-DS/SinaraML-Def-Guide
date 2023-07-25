@@ -83,7 +83,7 @@ recognition of car numbers in the stream
 ML product. Twofold development process
 ***************************************
 
-Software dev process
+Software dev process. CI / CD
 ====================
 
 Let's assume that Adam and Ivan worked in an organization that uses a modern software development process with CI/CD and microservice architecture. With the right approach, the organization makes microservices as independent from each other and the stateles as possible. Accordingly, the development process of each microservice can be relatively independent and at the top level look something like this:
@@ -104,8 +104,8 @@ The key idea to grasp here is that when developing a product, it is necessary no
 
 Sometimes the CI/CD of a product becomes more complex and confusing than the product's microservices themselves. This is especially true when the CI / CD architecture is not given due importance.
 
-ML dev process
-====================
+ML dev process. ML Pipeline
+===========================
 
 What do we lack for the organized development of ML?
 
