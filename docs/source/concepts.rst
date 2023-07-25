@@ -103,7 +103,7 @@ So when developing a product, it is necessary not only to create and maintain th
 
 Sometimes the CI/CD of a product becomes more complex and confusing than the product's microservices themselves. This is especially true when the CI / CD architecture is not given due importance.
 
-CI/CD looks like an unnecessary high tax on product development. But the paradox is that СI / CD is just necessary to reduce the costs and risks associated with making changes to the product. The main factor on which the cost of ownership of a product depends is the cost of making changes to the product. Therefore, the better and more effective the CI/CD in your product, the lower the TCO (Total cost of ownership)
+CI/CD looks like an unnecessary high tax on product development. But the paradox is that СI / CD is just necessary to reduce the costs and risks associated with making changes to the product. The main factor on which the cost of ownership of a product depends is the cost of making changes to the product. Therefore, the better and more effective the CI/CD in your product, the lower the TCO (Total Cost of Ownership)
 
 ML dev process. ML Pipeline
 ===========================
