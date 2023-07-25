@@ -110,7 +110,8 @@ ML dev process. ML Pipeline and ML infrastructure
 
 But let us return to the Adam-Ivan problem. Why is retraining the "model" so expensive? Why does a small change cost as much as doing it all over again?
 
-The answer is obvious. Traditional CI/CD is not enough to enable cheap iterative changes in the Model Service. 
+The answer is obvious. Adam didn't have well engineered CI/CD and ML Pipeline for Model Service.
+ Traditional CI/CD is not enough to enable cheap iterative changes in the Model Service. 
 
 .. image:: m_product_dev_process_2.jpeg
 
