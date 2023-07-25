@@ -83,8 +83,8 @@ recognition of car numbers in the stream
 ML product. Twofold development process
 ***************************************
 
-Software dev process. CI / CD
-====================
+Software dev process. CI/CD and Dev Infrastructure 
+==================================================
 
 Let's assume that Adam and Ivan worked in an organization that uses a modern software development process with CI/CD and microservice architecture. With the right approach, the organization makes microservices as independent from each other and the stateles as possible. Accordingly, the development process of each microservice can be relatively independent and at the top level look something like this:
 
@@ -105,8 +105,8 @@ Sometimes the CI/CD of a product becomes more complex and confusing than the pro
 
 CI/CD looks like an unnecessary high tax on product development. But the paradox is that СI/CD is just necessary to reduce the costs and risks associated with making changes to the product. The TCO (Total Cost of Ownership) of a product mainly depends on the cost of making changes to the product. Therefore, the better and more effective the CI/CD in your product, the lower the TCO (Total Cost of Ownership)
 
-ML dev process. ML Pipeline
-===========================
+ML dev process. ML Pipeline and ML infrastructure
+=================================================
 
 But let us return to the Adam-Ivan problem. Why is retraining the "model" so expensive? Why does a small change cost as much as doing it all over again?
 
@@ -121,10 +121,6 @@ More is needed, including:
 3. ML pipelines
 4. Computing Power
 
-Why is Model Serving ever needed?
-*********************************
-
-A ML model can be created using different libraries and different programming languages. The de facto standard for creating ML models is the Python language now. But each Python library has its own language syntax for representing models and its own file formats for storing these models. Moreover, the programming language of an ML product often differs from Python, and the libraries used by the Data Scientist may change over the life of the Model.
 
 
 
