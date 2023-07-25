@@ -97,7 +97,7 @@ And the process of developing a typical ML product with a microservice architect
 So when developing a product, it is necessary not only to create and maintain the code of microservices, but also the code and infratstructure for CI / CD pipelines that deploys and configures these microservices. CI / CD of a real product is much more complicated than the one we have shown in the pictures above. It usually includes autotests of individual microservices, as well as autotests for integrated and system testing, deployment to different environments (dev, test, stage, prod). To work with CI / CD in modern development processes, a development infrastructure is needed: 
 
 1. Source control systems with CI / CD pipelines like GitLab
-2. Artfefact Repositories (to store microservice images and other packages)
+2. Artefact Repositories like Artifactory (to store microservice images and other packages)
 3. Container orchestration like K8S or OpenShift (to deploy and run microservices)
 4. Others
 
