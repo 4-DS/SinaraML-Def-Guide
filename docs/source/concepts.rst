@@ -98,8 +98,7 @@ So when developing a product, it is necessary not only to create and maintain th
 
 1. Source control systems with CI / CD pipelines like GitLab
 2. Artfefact Repositories (to store microservice images and other packages)
-3. Container orchestration like K8S
-4. OpenShift (to deploy and run microservices)
+3. Container orchestration like K8S or OpenShift (to deploy and run microservices)
 5. Others
 
 Sometimes the CI/CD of a product becomes more complex and confusing than the product's microservices themselves. This is especially true when the CI / CD architecture is not given due importance.
