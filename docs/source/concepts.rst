@@ -127,6 +127,10 @@ This is how Google portrays the ML System needed to develop a single model servi
 
 .. image:: google_ml_pipeline_and_cicd.jpeg
 
+We do not urge the reader now to disassemble the details in the Google's picture above. We will dive into the details of the Model Service development process later.
+
+For now, our main goal is to illustrate that when developing a ML product, we are dealing with two very different and equally complex development processes. And this is true even if we develop and operate only one ML model for a ML product.
+
 
 
 
