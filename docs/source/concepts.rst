@@ -112,6 +112,8 @@ But let us return to the Adam-Ivan problem. Why is retraining the "model" so exp
 
 The answer is obvious. Traditional CI/CD is not enough to enable cheap iterative changes in the Model Service. 
 
+.. image:: ml_product_dev_process_2.jpeg
+
 More is needed, including:
 
 1. СI/CD
