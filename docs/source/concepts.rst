@@ -123,7 +123,7 @@ More is needed, including:
 
 The process of developing a Model Service is many times more complicated than developing a conventional microservice, comparable in complexity to the process of developing an entire ML product. 
 
-This is how Google portrays the ML System needed to develop a single model service ("one model"):
+This is how Google depicts the ML System needed to develop a single model service ("one model"):
 
 .. image:: google_ml_pipeline_and_cicd.jpeg
 
