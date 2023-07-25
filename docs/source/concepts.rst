@@ -94,7 +94,7 @@ And the process of developing a typical ML product with a microservice architect
 
 .. image:: ml_product_dev_process.jpeg
 
-The key idea to grasp here is that when developing a product, it is necessary not only to create and maintain not only the code for microservices, but also the CI / CD infrastructre that deploys and configures these microservices. CI / CD of a real product is much more complicated than the one we have shown in the picture above. It usually includes autotests of individual microservices, as well as autotests for integrated and system testing, deployment to different environments (dev, test, stage, prod). To work with CI / CD in modern development processes, a development infrastructure is needed: 
+The key idea to grasp here is that when developing a product, it is necessary not only to create and maintain the code of microservices, but also the CI / CD infrastructre that deploys and configures these microservices. CI / CD of a real product is much more complicated than the one we have shown in the picture above. It usually includes autotests of individual microservices, as well as autotests for integrated and system testing, deployment to different environments (dev, test, stage, prod). To work with CI / CD in modern development processes, a development infrastructure is needed: 
 
 1. Source control systems with CI / CD pipelines like GitLab
 2. Artfefact Repositories (to store microservice images and other packages)
