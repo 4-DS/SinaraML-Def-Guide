@@ -120,6 +120,15 @@ The result is an architectural anti-pattern, one of the common reasons why ML pr
 
 They unite components (backend and model files), which have a significantly different life cycle, development process, different skills needed for development, often even different programming languages. Moreover, we need ML pipeline inside backend CI/CD process of united backend, to keep critical information about how the model was generated. The architecture of such united backend becomes incredibly complex, and making changes becomes incredibly expensive. To make changes in such backend, we need to roll out a new model; to make changes to the model, we need to roll out a new backend. 
 
+The picture below from Google illustrates how much the model development process differs from the software development process. The pcicture depicts CI/CD and ML pipeline needed to develop a single model service ("one model"):
+
+.. image:: google_ml_pipeline_and_cicd.jpeg
+
+We do not urge the reader now to disassemble the details in the Google's picture above. We will dive into the details of the Model Service development process later.
+
+The process of developing a Model Service is many times more complicated than developing a conventional microservice, and comparable in complexity to the process of developing an entire ML product. 
+
+For now, our main goal is to illustrate that when developing a ML product, we are dealing with two very different and equally complex development processes.
 
 More is needed, including:
 
@@ -127,16 +136,6 @@ More is needed, including:
 2. Data Handling
 3. ML pipelines
 4. More Computing Power
-
-The process of developing a Model Service is many times more complicated than developing a conventional microservice, comparable in complexity to the process of developing an entire ML product. 
-
-The picture below from Google illustrates how much the model development process differs from the software development process. The pcicture depicts CI/CD and ML pipeline needed to develop a single model service ("one model"):
-
-.. image:: google_ml_pipeline_and_cicd.jpeg
-
-We do not urge the reader now to disassemble the details in the Google's picture above. We will dive into the details of the Model Service development process later.
-
-For now, our main goal is to illustrate that when developing a ML product, we are dealing with two very different and equally complex development processes. And this is true even if we develop and operate only one ML model for a ML product.
 
 
 
