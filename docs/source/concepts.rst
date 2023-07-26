@@ -105,7 +105,8 @@ Sometimes the CI/CD of a product becomes more complex and confusing than the pro
 
 CI/CD looks like an unnecessary high tax on product development. But the paradox is that СI/CD is just necessary to reduce the costs and risks associated with making changes to the product. The TCO (Total Cost of Ownership) of a product mainly depends on the cost of making changes to the product. Therefore, the better and more effective the CI/CD in your product, the lower the TCO (Total Cost of Ownership)
 
-ML product twofold development process = Software dev process + ML dev process
+ 
+Software dev process vs ML dev process
 ==============================================================================
 
 But let us return to the Adam-Ivan problem. Why is retraining the "model" so expensive? Why does a small change cost as much as doing it all over again?
@@ -131,6 +132,7 @@ The process of developing a Model Service is many times more complicated than de
 For now, our main goal is to illustrate that when developing a ML product, we are dealing with two very different and equally complex development processes.
 
 ML product twofold development process = Software dev process + ML dev process
+==============================================================================
 
 ML dev process. ML Pipeline and ML infrastructure
 =================================================
