@@ -92,7 +92,7 @@ Let's assume that Adam and Ivan worked in an organization that uses a modern sof
 
 And the process of developing a typical ML product with a microservice architecture can look like several relatively autonomous processes for developing individual microservices:
 
-.. image:: ml_product_dev_process.jpeg
+.. image:: ml_product_dev_process3.jpeg
 
 So when developing a product, it is necessary not only to create and maintain the code of microservices, but also the code and infratstructure for CI / CD pipelines that deploys and configures these microservices. CI / CD of a real product is much more complicated than the one we have shown in the pictures above. It usually includes autotests of individual microservices, as well as autotests for integrated and system testing, deployment to different environments (dev, test, stage, prod). To work with CI / CD in modern development processes, a development infrastructure is needed: 
 
@@ -119,7 +119,8 @@ But why didn't Adam implement a REST interface around the model files and packag
 
 Traditional CI/CD is not enough to enable cheap iterative changes in the Model Service. 
 
-.. image:: m_product_dev_process_2.jpeg
+.. image:: ml_product_dev_process4.jpeg
+
 
 More is needed, including:
 
