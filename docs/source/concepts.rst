@@ -116,7 +116,7 @@ But why didn't Adam implement a REST interface around the model files and packag
 
 The result is an architectural anti-pattern, one of the common reasons why ML product development becomes a nightmare.
 
-.. image:: ml_product_dev_process4.jpeg
+.. image:: ml_product_antipattern.jpeg
 
 
 More is needed, including:
