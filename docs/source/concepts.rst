@@ -118,9 +118,7 @@ The result is an architectural anti-pattern, one of the common reasons why ML pr
 
 .. image:: ml_product_antipattern.jpeg
 
-Combining the backend and model files, we combine components, which have a significantly different life cycle, development process, different skills needed for development, often even different programming languages.
-
-The architecture of such a backend becomes incredibly complex, and making changes incredibly expensive. And to make changes in such a backend, we need to roll out a new model; to make changes to the model, we need to roll out a new backend.
+We unite components (backend and model files), which have a significantly different life cycle, development process, different skills needed for development, often even different programming languages. The architecture of such united backend becomes incredibly complex, and making changes becomes incredibly expensive. To make changes in such backend, we need to roll out a new model; to make changes to the model, we need to roll out a new backend.
 
 More is needed, including:
 
