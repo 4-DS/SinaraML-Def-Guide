@@ -130,6 +130,8 @@ The process of developing a Model Service is many times more complicated than de
 
 For now, our main goal is to illustrate that when developing a ML product, we are dealing with two very different and equally complex development processes.
 
+ML product twofold development process = Software dev process + ML dev process
+
 ML dev process. ML Pipeline and ML infrastructure
 =================================================
 
