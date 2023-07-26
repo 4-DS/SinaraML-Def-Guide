@@ -114,7 +114,7 @@ The answer is obvious to any experienced MLOps engineer. Adam didn't have well e
 
 But why didn't Adam implement a REST interface around the model files and package the result into a microservice? Thus, he could use the typical CI / CD for microservices. The fact is that Adam is a Data Scientist, he does not have the necessary engineering skills. And it seems natural and easy for him to transfer the model files to the developer of the ML product, which is precisely engaged in the development of microservices.
 
-The result is an architectural anti-pattern, one of the common reasons why ML product development becomes a nightmare.
+The result is an architectural anti-pattern, one of the common reasons why ML product development becomes a nightmare:
 
 .. image:: ml_product_antipattern.jpeg
 
