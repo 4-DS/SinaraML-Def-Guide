@@ -112,6 +112,11 @@ But let us return to the Adam-Ivan problem. Why is retraining the "model" so exp
 
 The answer is obvious. Adam didn't have well engineered CI/CD and ML Pipeline for Model Service.  Instead of creating a ML pipeline, Adam prepared the data, trained and tested the model manually. Instead of CD for Model Service, Adam sent a set of model files via messenger to ML product developers. To do this, he went through many iterations and experiments. And like any living person, Adam forgot the details of the iteration at which the current version of the model was created.
 
+But why didn't Adam implement a REST interface around the model files and package the result into a microservice? Thus, he could use the typical CI / CD for microservices. The fact is that Adam is a Data Scientist, he does not have the necessary engineering skills. And it seems natural and easy for him to transfer the model files to the developer of the ML product, which is precisely engaged in the development of microservices.
+
+
+
+
 Traditional CI/CD is not enough to enable cheap iterative changes in the Model Service. 
 
 .. image:: m_product_dev_process_2.jpeg
