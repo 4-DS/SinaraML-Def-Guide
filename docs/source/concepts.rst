@@ -131,7 +131,7 @@ The process of developing a Model Service is many times more complicated than de
 
 So while developing a ML product, we are dealing with two very different and equally complex development processes: Software dev process and ML dev process. We began to describe the difference between these processes from the engineering side. But the essential difference between these processes extends far beyond engineering tasks, in how to specify requirements for models, how to test and operate models. We will touch on these points separately.
 
-ML product twofold development process = Software dev process + ML dev process
+ML product twofold dev process = Software dev process + ML dev process
 ==============================================================================
 Now we know that when developing a ML product, we are dealing with two development processes: the Software Dev process and the ML Dev process. We must make these processes as independent from each other as possible in order to make the development of the entire ML product manageable. That is why a Model Serving needed and that is why models are developed and packaged into separate components, most often these are microservices (Model Services).
 
