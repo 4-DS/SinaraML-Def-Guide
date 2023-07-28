@@ -135,6 +135,8 @@ ML product twofold dev process = Software dev process + ML dev process
 ==============================================================================
 Now we know that when developing a ML product, we are dealing with two development processes: the Software Dev process and the ML Dev process. We must make these processes as independent from each other as possible in order to make the development of the entire ML product manageable. That is why a Model Serving needed and that is why models are developed and packaged into separate components, most often these are microservices (Model Services).
 
+For our ML product with microservice architecture, the correct development process should look something like this:
+
 
 
 ML dev process. ML Pipeline and ML infrastructure
