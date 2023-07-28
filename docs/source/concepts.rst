@@ -139,7 +139,10 @@ For our ML product with microservice architecture, the correct development proce
 
 .. image:: twofold_dev_process.jpeg
 
-
+This is a simplified illustration of a twofold dev process. Inside the ML dev process:
+1. Data Scientist develops individual steps of the ML pipeline
+2. Then trains the model by running the ML pipeline with different parameters
+3. Then deploys the Model Service by running CI/CD pipeline, which pack Model Files into Model Image
 
 ML dev process. ML Pipeline and ML infrastructure
 =================================================
