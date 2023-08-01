@@ -26,7 +26,7 @@ This is still too rough a picture to get to the action, but a good first step fo
 How should the Adam-Ivan problem have been solved? Ivan would have to analyze the results of the model monitoring, the ML pipelines code, the data on which the model was trained. Ivan should have had an easy way to reproduce the training of the current model, modify the ML pipeline if necessary, and release a new model trained on the new data
 
 Model Serving, Model, Model Service and Model Image 
-************************************
+***************************************************
 
 To be precise, the output of a machine learning pipeline is usually not a model, but a **Model Service**. Model Service is a wrapper around one or more models. In the simplest version a Data Scientist provides a convenient for ML product interface over the model(s) using Python for preprocessing/postprocessing, json format as inputs and outputs. We will come back to this in more detail later with examples.
 
@@ -35,7 +35,7 @@ The **Model Service** is most often packaged in a docker image with a REST inter
 .. image:: model_image.jpeg
 
 ML Product architectures and Model Serving
-*****************************************
+******************************************
 
 Above we described how Model Serving works on the example of Microservice ML Product Architecture. Model Serving can be implemented differently depending on the ML product architecture.
 
@@ -81,7 +81,7 @@ TODO
 recognition of car numbers in the stream
 
 ML product. Twofold development process with DE Aspect
-********************************************************************
+******************************************************
 
 
 Software dev process. CI/CD and Dev Infrastructure 
@@ -133,7 +133,7 @@ The process of developing a Model Service is many times more complicated than de
 So while developing a ML product, we are dealing with two very different and equally complex development processes: Software dev process and ML dev process. We began to describe the difference between these processes from the engineering side. But the essential difference between these processes extends far beyond engineering tasks, in how to specify requirements for models, how to test and operate models. We will touch on these points separately.
 
 ML product twofold dev process = Software dev process + ML dev process
-==============================================================================
+======================================================================
 Now we know that when developing a ML product, we are dealing with two development processes: the Software Dev process and the ML Dev process. We must make these processes as independent from each other as possible in order to make the development of the entire ML product manageable. That is why a Model Serving needed and that is why models are developed and packaged into separate components, most often these are microservices (Model Services).
 
 For our ML product with microservice architecture, the correct development process should look something like this:
@@ -156,8 +156,8 @@ More is needed, including:
 3. ML pipelines
 4. More Computing Power
 
-Data Engineering Aspect
-=================================================
+Data Engineering Aspect of Twofold Dev Process
+==============================================
 
 
 MLOps
