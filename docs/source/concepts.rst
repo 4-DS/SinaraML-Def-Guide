@@ -155,6 +155,10 @@ More is needed, including:
 3. ML pipelines
 4. More Computing Power
 
+Data Engineering Aspect
+=================================================
+
+
 MLOps
 =====
 
