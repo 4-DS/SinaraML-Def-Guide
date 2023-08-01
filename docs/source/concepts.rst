@@ -80,8 +80,9 @@ Real-Time Streaming Architecture
 TODO
 recognition of car numbers in the stream
 
-ML product. Twofold development process
-***************************************
+ML product. Twofold development process with DE Aspect
+********************************************************************
+
 
 Software dev process. CI/CD and Dev Infrastructure 
 ==================================================
