@@ -146,6 +146,11 @@ The picture above is a simplified illustration of a twofold dev process. Inside 
 2. Then trains the model by running the ML pipeline with different parameters
 3. Then deploys the Model Service by running CI/CD pipeline, which pack Model Files into Model Image
 
+
+
+Data Engineering Aspect of Twofold Dev Process
+==============================================
+
 ML dev process. ML Pipeline and ML infrastructure
 =================================================
 
@@ -155,10 +160,6 @@ More is needed, including:
 2. Data Handling
 3. ML pipelines
 4. More Computing Power
-
-Data Engineering Aspect of Twofold Dev Process
-==============================================
-
 
 MLOps
 =====
