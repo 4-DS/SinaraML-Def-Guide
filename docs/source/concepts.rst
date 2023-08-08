@@ -138,7 +138,7 @@ Now we know that when developing a ML product, we are dealing with two developme
 
 For our ML product with microservice architecture, the correct development process should look something like this:
 
-.. image:: twofold_dev_process.jpeg
+.. image:: twofold_dev_process2.jpeg
 
 The picture above is a simplified illustration of a twofold dev process. Inside the ML dev process:
 
