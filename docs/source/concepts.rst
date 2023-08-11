@@ -152,7 +152,7 @@ Data Engineering Aspect of Twofold Dev Process
 ==============================================
 It would seem that Adam-Ivan the problem is solved now with the help of the twofold process. But the experienced Data Scientist sees that the picture is too good to be true. We lack one important aspect - the data aspect. Working with data is often the most complex and critical element in the development of an ML product. And, unfortunately, we cannot isolate the Data Engineering development process and manage it separately from the software development process and the ML development process.
 
-The Dev Engineering process is an aspect that permeates all elements of twofold dev process and requires the coordinated work of all members of the ML product development team. Moreover, the elements of Data Engineering of ML product extend far beyond the twofold ML product dev process.
+The Dev Engineering process is an aspect that permeates all elements of ML product and requires the coordinated work of all members of the ML product development team. Moreover, the elements of Data Engineering of ML product extend far beyond the twofold ML product dev process.
 
 ML dev process. ML Pipeline and ML infrastructure
 =================================================
