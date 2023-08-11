@@ -154,7 +154,7 @@ It would seem that Adam-Ivan the problem is solved now with the help of the twof
 
 The Dev Engineering process is an aspect that permeates all elements of ML product and requires the coordinated work of all members of the ML product development team. Moreover, the elements of Data Engineering of ML product extend far beyond the twofold ML product dev process. Schematically, this can be represented as something like this:
 
-.. image:: ml_product_antipattern.jpeg
+.. image:: data_engineering_process
 
 ML dev process. ML Pipeline and ML infrastructure
 =================================================
