@@ -164,6 +164,10 @@ Data Architecture of ML product
 https://sinara-definitive-guide.readthedocs.io/en/latest/concepts.html#microservice-architecture
 
 
+`Microservice Architecture`_ 
+#microservice-architecture
+
+#microservice-architecture
 
 ML dev process. ML Pipeline and ML infrastructure
 =================================================
