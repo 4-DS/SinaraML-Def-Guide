@@ -156,6 +156,11 @@ The Dev Engineering process is an aspect that permeates all elements of ML produ
 
 .. image:: data_engineering_process.jpeg
 
+This picture is good for understanding, but a poor guide to action. We will have to dive into the data architecture of the ML product to learn how to manage the Data Engineering process
+
+Data Architecture of ML product
+=================================================
+
 ML dev process. ML Pipeline and ML infrastructure
 =================================================
 
