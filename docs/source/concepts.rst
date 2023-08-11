@@ -161,7 +161,9 @@ This picture is good for understanding, but a poor guide to action. So we will h
 Data Architecture of ML product
 ================================
 
-`Microservice Architecture`_ 
+Earlier in article `Microservice Architecture`_ , we considered the Date Flow inside the ML of the product. It's time to take a look at the full data architecture of the ML product:
+
+
 
 
 ML dev process. ML Pipeline and ML infrastructure
