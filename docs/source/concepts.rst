@@ -163,6 +163,9 @@ Data Architecture of ML product
 
 Earlier in article `Microservice Architecture`_ , we considered the Date Flow inside the ML of the product. It's time to take a look at the full Data Architecture of the ML product:
 
+ML Product types. Single vs multiple. OLAP vs OLTP
+==================================================
+
 ML product boundary
 ===================
 
