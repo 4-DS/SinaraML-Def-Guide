@@ -128,7 +128,7 @@ The picture below from Google illustrates how much the ML development process di
 
 We do not urge the reader now to disassemble the details in the Google's picture above. We will dive into the details of the Model Service development process later.
 
-The process of developing a Model Service is many times more complicated than developing a conventional microservice, and comparable in complexity to the process of developing an entire ML product. 
+The process of developing a Model Service is many times more complicated than developing a conventional microservice, and comparable in complexity to the process of developing an entire software product. 
 
 So while developing a ML product, we are dealing with two very different and equally complex development processes: Software dev process and ML dev process. We began to describe the difference between these processes from the engineering side. But the essential difference between these processes extends far beyond engineering tasks, in how to specify requirements for models, how to test and operate models. We will touch on these points separately.
 
