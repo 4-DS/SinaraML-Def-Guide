@@ -174,6 +174,11 @@ It has obvious problems, and needs significant additions. It can even work if yo
 
 But more often in ML development for non-IT companies, you have to deal with a large number of ML products and serious resource constraints at the same time. Let's formulate the main problems of naive ML product architecture:
 
+1. You are not given direct access to request data from the SCADA system. Direct access poses risks to the security and continuity of production systems
+2. It is necessary to accumulate data directly from the SCADA system in order to create the first model (even before creating an ML product)
+3. Accumulation of historical data in the main DB leads to a rapid degradation of performance. Need a separate DB
+4. Maintaining a separate DB (similar to the main DB) for historical data is expensive and does not scale well. In practice, this usually results in historical data being deleted.
+
 Complete Data Architecture of ML product 
 ----------------------------------------
 
