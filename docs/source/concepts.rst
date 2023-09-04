@@ -170,7 +170,7 @@ Let's take a look at the naive architecture of an ML product. It has obvious pro
 
 .. image:: naive_data_architrcture.jpeg
 
-But more often in ML development for non-IT companies, you have to deal with a large number of ML products and serious resource constraints at the same time. Let us formulate the main problems of naive ML product architecture:
+But more often in ML development for non-IT companies, you have to deal with a large number of ML products and serious resource constraints at the same time. Let's formulate the main problems of naive ML product architecture:
 
 Complete Data Architecture of ML product 
 ----------------------------------------
