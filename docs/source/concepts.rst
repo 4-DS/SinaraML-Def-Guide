@@ -161,7 +161,7 @@ This picture is good for understanding, but a poor guide to action. So we will h
 Data Architecture of ML product
 ================================
 
-Earlier in article `Microservice Architecture`_ , we considered the Date Flow inside the ML of the product. It's time to consider the complete ML data architecture of the product.
+Earlier in article `Microservice Architecture`_ , we considered the Date Flow inside the ML of the product. It's time to consider the complete data architecture of the ML product.
 
 Naive Data Architecture of ML product
 -------------------------------------
