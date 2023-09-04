@@ -166,10 +166,11 @@ Earlier in article `Microservice Architecture`_ , we considered the Date Flow in
 Naive Data Architecture of ML product
 -------------------------------------
 
-Let's take a look at the naive architecture of an ML product. 
+Let's take a look at the naive architecture of an ML product. It has obvious problems, and needs significant additions. It can even work if you are focused exclusively on the long-term development of a single ML product and you have an abundance of human and time resources.
 
+.. image:: naive_data_architrcture.jpeg
 
-It has obvious problems, and needs significant additions. But if you are focused exclusively on the long-term development of a single ML product and you have an abundance of human and time resources, then it can even work. But more often in ML development for non-IT companies, you have to deal with a large number of ML products and serious resource constraints at the same time. Let us formulate the main problems of naive architecture:
+But more often in ML development for non-IT companies, you have to deal with a large number of ML products and serious resource constraints at the same time. Let us formulate the main problems of naive ML product architecture:
 
 Complete Data Architecture of ML product 
 ----------------------------------------
