@@ -182,7 +182,7 @@ But more often in ML development for non-IT companies, you have to deal with a l
 Complete Data Architecture of ML product 
 ----------------------------------------
 
-.. image:: complete_data_architrcture.png
+.. image:: complete_data_architecture.png
 
 Single ML Product vs Multiple ML Products
 =====================================
