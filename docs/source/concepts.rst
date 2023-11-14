@@ -182,6 +182,7 @@ But more often in ML development for non-IT companies, you have to deal with a l
 Complete Data Architecture of ML product 
 ----------------------------------------
 The architecture below solves these four problems of naive architecture:
+TODO: how solves?
 
 .. image:: complete_data_architecture.png
 
