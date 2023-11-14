@@ -191,7 +191,7 @@ But the complexity and cost of such an ML product increases many times over. Spe
 - Long-term Storage
 - ML pipeline and monitoring system
 
-As practice shows, the consequences of such savings are sad. They do not simply increase the cost of development even more than with a systems approach. Such solutions often  “do not survive”, dying almost immediately as the implementation project “ends”. Quote from Google
+As practice shows, the consequences of such savings are sad. They do not simply increase the cost of development even more than with a systems approach. Such solutions often  “do not survive”, dying almost immediately as the implementation project “ends”. Quote from Google "the real challenge isn't building an ML model, the challenge is building an integrated ML system and to continuously operate it in production".
 
 Single ML Product vs Multiple ML Products
 =====================================
