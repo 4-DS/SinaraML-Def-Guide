@@ -181,8 +181,17 @@ But more often in ML development for non-IT companies, you have to deal with a l
 
 Complete Data Architecture of ML product 
 ----------------------------------------
+The architecture below solves these four problems of naive architecture:
 
 .. image:: complete_data_architecture.png
+
+But the complexity and cost of such an ML product increases many times over. Specialists from non-ML areas “feel” excessive complexity and try to save money by trying to get rid of the required ingredients:
+
+- Data Bus
+- Long-term Storage
+- ML pipeline and monitoring system
+
+As practice shows, the consequences of such savings are sad. They do not simply increase the cost of development even more than with a systems approach. Such solutions often simply “do not survive”, dying almost immediately as the implementation project “ends”. Quote from Google
 
 Single ML Product vs Multiple ML Products
 =====================================
