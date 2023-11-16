@@ -182,27 +182,8 @@ As practice shows, the consequences of such savings are sad. They do not simply 
 From ML Product to MLOps+Data Platform
 ======================================
 
-OLAP vs OLTP
-=============
-
-ML product boundary
-===================
-
-Data Extraction vs Data Integration
-===================================
-
-ML dev process. ML Pipeline and ML infrastructure
-=================================================
-
-More is needed, including:
-
-1. СI/CD
-2. Data Handling
-3. ML pipelines
-4. More Computing Power
-
 MLOps
 =====
-
+TODO:
 
 
