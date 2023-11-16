@@ -1,2 +1,2 @@
-MLOps Concepts Advanced
+MLOps Platform Concepts
 #######################
