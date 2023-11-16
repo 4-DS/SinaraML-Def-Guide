@@ -188,7 +188,7 @@ What to do in a situation of high cost of developing ML products? Here we have t
 
 1. Accept the high cost of products and continue
 2. Refuse to develop ML products due to unprofitability
-3. Find a way to save money without giving up product development elements
+3. Save money without giving up essential elements of product development
 
 The first option is suitable if you have found a highly profitable product that pays off despite high costs. This is typical for IT companies, where ML is the core business. For non-IT companies, such projects are good candidates for outsource. An outsourcer can significantly increase the profitability of a product by selling it to several clients. In the case of outsourcing a single project, you probably do not need to understand the specifics of developing ML products.
 
