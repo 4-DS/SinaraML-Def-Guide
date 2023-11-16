@@ -1,13 +1,13 @@
 Intro
 #####
 
-**The Sinara ML Definitive Guide** is a guide to systematic development and operations of ML models using the Sinara Framework. This guide isn't about using specialized Data Science libraries to train models or math. 
+**The SinaraML Definitive Guide** is a guide to systematic development and operations of ML models using the SinaraML Framework. This guide isn't about using specialized Data Science libraries to train models or math. 
 
-Sinara Framework allows the Data Scientist to focus on Data Science tasks by minimize the efforts associated with engineering and other dev and ops tasks.
+SinaraML Framework allows the Data Scientist to focus on Data Science tasks by minimize the efforts associated with engineering and other dev and ops tasks.
 
-Sinara Framework allows the Project Manager of ML project to organize ML developemnt process effectively and start to manage what seems unmanageable.
+SinaraML Framework allows the Project Manager of ML project to organize ML developemnt process effectively and start to manage what seems unmanageable.
 
-Perhaps we could call this a MLOps Definitive Guide using the Sinara Framework. But we touch on topics beyond ML operations here, diving deep into the organization of model development and the regulations of ML dev and ops within non-IT companies
+Perhaps we could call this a MLOps Definitive Guide using the SinaraML Framework. But we touch on topics beyond ML operations here, diving deep into the organization of model development and the regulations of ML dev and ops within non-IT companies
 
 Target audience and motivation
 *******************************
@@ -32,7 +32,7 @@ Management is upset, why does it have to do all of the work from the beginning b
 
 The solution to this problem lies in the field of engineering and organization of development and operation of ML systems. With the seeming similarity of approaches and tools with conventional software dev, ML development and operation has many of its own ML specifics. And in addition to specialized ML tools and approaches, it also requires a rethinking of established dev practices. Moreover, the use of AI in non-IT companies leads to additional challenges: we often have to solve AI tasks with fewer resources and competencies compared to IT companies. 
 
-Sinara Framework is an essence of our years of experience (tools, guides, regulations) in organizing Data Science in non-IT companies. Sinara Framework is for those who want to focus specifically on practical Data Science, and want to minimize their efforts of related disciplines such as software and data engineering, dev and ops, infrastructure support.
+Sinara Framework is an essence of our years of experience (tools, guides, regulations) in organizing Data Science in non-IT companies. SinaraML Framework is for those who want to focus specifically on practical Data Science, and want to minimize their efforts of related disciplines such as software and data engineering, dev and ops, infrastructure support.
    
 The most important tasks for AI success?
 ****************************************
