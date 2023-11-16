@@ -1,4 +1,4 @@
-Sinara ML Definitive Guide
+SinaraML Definitive Guide
 ===================================
 
 Contents
