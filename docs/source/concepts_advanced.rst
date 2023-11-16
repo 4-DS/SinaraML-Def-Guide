@@ -19,5 +19,3 @@ Real-Time Streaming Architecture
 TODO
 recognition of car numbers in the stream
 
-ML product dev process and architecture
-******************************************************
