@@ -62,25 +62,7 @@ For example, let's imagine a web application for a steelworker in a steel plant.
 
 The model receives information about the heat as input (X), gives recommendations for the steelmaker from the set of available additives(Y), and the ML product displays recommendations for additives on the UI. Based on recommendations and experience, the steelmaker makes the actual decision about the additives to be added (Y'). After adding additives to the heat, the ML product receives the resulting information about the heat (X'). Finally, the ML product sends all information about the heat and recommendations (X, X', Y, Y') to the data bus to monitor the performance of the model.
 
-In order not to disrupt the flow of our narrative, we will provide examples for other types of architectures in a separate part of the book, including **Batch Inference Architecture**, **Embedded Model Architecture** for mobile or edge devices, **Real-time Streaming Architecture**
-
-Batch Inference Architecture
-============================
-TODO
-classification of goods by name in cash receipts
-
-We will return to batch inference systems later when we look at ETL processes.
-
-Embedded Model Architecture
-===========================
-TODO
-Face detection in an image while taking a photo
-
-
-Real-Time Streaming Architecture
-================================
-TODO
-recognition of car numbers in the stream
+In order not to disrupt the flow of our narrative, we will provide examples for other types of architectures in a separate part of the book, including **Batch Inference Architecture**, **Embedded Model Architecture** for mobile or edge devices, **Real-time Streaming Architecture**. TODO: add references to examples 
 
 ML product dev process and architecture
 ******************************************************
