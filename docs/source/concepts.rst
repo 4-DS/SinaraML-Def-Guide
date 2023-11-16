@@ -180,10 +180,11 @@ As practice shows, the consequences of such savings are sad. They do not simply 
 
 
 From ML Product to MLOps+Data Platform
-======================================
+***************************************
+TODO:
 
 MLOps
-=====
+*****
 TODO:
 
 
