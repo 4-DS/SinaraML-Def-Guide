@@ -181,7 +181,20 @@ As practice shows, the consequences of such savings are sad. They do not simply 
 
 From ML Product to MLOps+Data Platform
 ***************************************
-TODO:
+
+Three ways to harness ML
+=========================
+What to do in a situation of high cost of developing ML products? Here we have three options:
+
+1. Accept the high cost of products and continue
+2. Refuse to develop ML products due to unprofitability
+3. Find a way to save money without giving up product development elements
+
+The first option is suitable if you have found a highly profitable product that pays off despite high costs. This is typical for IT companies, where ML is the core business. For non-IT companies, such projects are good candidates for outsource. An outsourcer can significantly increase the profitability of a product by selling it to several clients. In the case of outsourcing a single project, you probably do not need to understand the specifics of developing ML products.
+
+The second option is often good for medium and small non-IT companies. At the same time, you do not refuse to use AI or ML. You abandon your own development and focus on using ready-made solutions out of the box, or with minimal modification.
+
+Our story is aimed at those who chose the third option. Although in reality the third option does not exist in its pure form. More often we encounter mixed cases when the third option is combined with the second and even the first
 
 MLOps
 *****
