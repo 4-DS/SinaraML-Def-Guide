@@ -8,8 +8,8 @@ Contents
 
    intro
    concepts
-   concepts_advanced
    MLOps_Platform
    Data_Platform
    Organizational_Concepts
    Sinara_Concepts
+   concepts_advanced
