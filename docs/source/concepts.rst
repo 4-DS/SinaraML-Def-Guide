@@ -198,6 +198,7 @@ Our story is aimed at those who chose the third option. Although in reality the 
 
 Three Platforms for ML Product development
 ==========================================
+Before you move forward, you need to be clear about your goals. In fact, when deciding to develop ML products, you are not just deciding to acquire new ML products because it is on hype. You decide to gain the ability to develop ML products. That is, the key value you are going for is not the availability of ML products here and now, but the competence to create its where needed. If you are not ready for this, it might be a worthy venture.
 
 MLOps
 *****
