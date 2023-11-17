@@ -196,6 +196,9 @@ The second option is often good for medium and small non-IT companies. At the sa
 
 Our story is aimed at those who chose the third option. Although in reality the third option does not exist in its pure form. More often we encounter mixed cases when the third option is combined with the second and even the first.
 
+Three Platforms for ML Product development
+==========================================
+
 MLOps
 *****
 TODO:
