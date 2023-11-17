@@ -194,7 +194,7 @@ The first option is suitable if you have found a highly profitable product that 
 
 The second option is often good for medium and small non-IT companies. At the same time, you do not refuse to use AI or ML. You abandon your own development and focus on using ready-made solutions out of the box, or with minimal modification.
 
-Our story is aimed at those who chose the third option. Although in reality the third option does not exist in its pure form. More often we encounter mixed cases when the third option is combined with the second and even the first
+Our story is aimed at those who chose the third option. Although in reality the third option does not exist in its pure form. More often we encounter mixed cases when the third option is combined with the second and even the first.
 
 MLOps
 *****
