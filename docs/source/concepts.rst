@@ -212,6 +212,8 @@ Technically, all three of these areas overlap greatly, but the industry is evolv
 
 Essentially, the cost of developing and operating ML products is the cost of tools, processes and competencies. From now on we will call a platform a set of tools, processes and competences in each of the three engineering areas. So we will talk about three platforms:
 
+.. image:: three_platfroms.png
+
 MLOps
 *****
 TODO:
