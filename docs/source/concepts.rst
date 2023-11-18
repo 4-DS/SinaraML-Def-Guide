@@ -199,6 +199,15 @@ Our story is aimed at those who chose the third option. Although in reality the 
 Three Platforms for ML Product development
 ==========================================
 Before you move forward, you need to be clear about your goals. In fact, when deciding to develop ML products, you are not just deciding to acquire new ML products because it is on hype. You decide to gain the ability to develop ML products. That is, the key value you are going for is not the availability of ML products here and now, but the competence to create its where needed. If you are not ready for this, it might be a worthless venture.
+How can we save on developing ML products? The general answer is banal: we need the right tools, standards and skills. But as always, the devil is in the details.
+
+To start diving into these details, we will break down the architecture of our ML product into three large parts:
+
+1.Software Engineering
+2.Data Engineering
+3.ML Engineering
+
+Technically, all three of these areas overlap greatly, but the industry is evolving in such a way that engineering dev competencies, tools and organizational structures in companies are crystallizing separately in these areas
 
 MLOps
 *****
