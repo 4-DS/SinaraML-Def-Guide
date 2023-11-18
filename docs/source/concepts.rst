@@ -203,9 +203,9 @@ How can we save on developing ML products? The general answer is banal: we need 
 
 To start diving into these details, we will break down the architecture of our ML product into three large parts:
 
-1.Software Engineering
-2.Data Engineering
-3.ML Engineering
+1. Software Engineering
+2. Data Engineering
+3. ML Engineering
 
 Technically, all three of these areas overlap greatly, but the industry is evolving in such a way that engineering dev competencies, tools and organizational structures in companies are crystallizing separately in these areas
 
