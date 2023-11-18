@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Sinara ML Definitive Guide'
+project = 'SinaraML Definitive Guide'
 copyright = '2023, 4-DS'
 author = 'Dmitry Love'
 
