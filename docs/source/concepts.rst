@@ -214,6 +214,8 @@ Essentially, the cost of developing and operating ML products is the cost of too
 
 .. image:: three_platfroms_2.png
 
+So the platform is a way to make product development cheaper through standardization, reuse and the right technologies. The cost of developing ML products directly depends on these three platforms.
+
 MLOps
 *****
 TODO:
