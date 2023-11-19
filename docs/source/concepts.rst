@@ -216,7 +216,7 @@ Essentially, the cost of developing and operating ML products is the cost of too
 
 So the platform is a way to make product development cheaper through standardization, reuse and the right technologies. The cost of ML products developing depends directly on how you build these three platforms.
 
-We will show the way how to organize these three platforms for the most effective development and operation of ML products. This will be useful not only for companies that develop a large number of products. This will also apply even if you want to develop one single ML product with the help of one single person and you feel that talking about platforms is completely inappropriate in your case. Reducing the cost of developing ML products is at the forefront of this book. But for the sake of completeness, in the future we will consider an non-IT company that decided to implement the development of ML products.
+We will show the way how to organize these three platforms for the most effective development and operation of ML products. This will be useful not only for companies that develop a large number of products. This will also apply even if you want to develop one single ML product with the help of one single person and you feel that talking about platforms is completely inappropriate in your case. Reducing the cost of ML products developing is at the forefront of this book. But for the sake of completeness, in the future we will consider an non-IT company that decided to implement the development of ML products.
 
 Data Science and Engineering
 ============================
