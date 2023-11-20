@@ -71,7 +71,7 @@ ML product dev process and architecture
 Software dev process. CI/CD and Dev Infrastructure 
 ==================================================
 
-Let's assume that Adam and Ivan worked in an organization that uses a modern software development process with CI/CD and microservice architecture. With the right approach, the organization makes microservices as independent from each other and the stateles as possible. Accordingly, the development process of each microservice can be relatively independent and at the top level look something like this:
+Let's assume that Adam and Ivan work in an organization that uses a modern software development process with CI/CD and microservice architecture. The organization develops microservices as independent from each other and stateless as possible. Accordingly, the development process of each microservice can be relatively independent and at the top level looks something like this:
 
 .. image:: microservice_dev_process.jpeg
 
